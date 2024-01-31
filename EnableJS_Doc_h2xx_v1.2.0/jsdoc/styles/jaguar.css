@@ -29,9 +29,9 @@ li {
 .navigation {
     position: fixed;
     float: left;
-    width: 250px;
+    width: 280px;
     height: 100%;
-    background-color: #1a1a1a
+    background-color: #003941;
 }
 
 .navigation .applicationName {
@@ -51,9 +51,9 @@ li {
 }
 
 .navigation .search input {
-    background-color: #333;
+    background-color: #264b6b;
     color: #fff;
-    border-color: #555
+    border-color: #4687bf;
 }
 
 .navigation .list {
@@ -66,7 +66,7 @@ li {
 .navigation li.item {
     margin-bottom: 8px;
     padding-bottom: 8px;
-    border-bottom: 1px solid #333
+    border-bottom: 1px solid #003941;
 }
 
 .navigation li.item a {
@@ -95,9 +95,10 @@ li {
 .navigation li.item .title .static {
     display: block;
     border-radius: 3px;
-    background-color: #779c34;
-    color: #000;
+    background-color: #0098B0;
+    color: #080800;
     font-size: .7em;
+    font-weight: bold;
     padding: 2px 4px;
     float: right
 }
@@ -105,7 +106,7 @@ li {
 .navigation li.item .subtitle {
     margin-top: 10px;
     font: 700 .65em Helvetica;
-    color: #779c34;
+    color: #0098B0;
     display: block
 }
 
@@ -121,7 +122,7 @@ li {
 
 .main {
     padding: 20px 20px;
-    margin-left: 250px
+    margin-left: 280px
 }
 
 .main .page-title {
@@ -189,7 +190,7 @@ li {
 .main span.static {
     display: inline-block;
     border-radius: 3px;
-    background-color: #779c34 !important;
+    background-color: #0098B0 !important;
     color: #fff;
     font-size: .7em;
     padding: 2px 4px;
@@ -219,7 +220,7 @@ li {
 .main .subsection-title {
     font-size: 14px;
     margin-top: 30px;
-    color: #779c34
+    color: #0098B0
 }
 
 .main .description {
