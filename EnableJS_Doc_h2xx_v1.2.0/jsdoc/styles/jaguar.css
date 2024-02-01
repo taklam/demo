@@ -31,7 +31,7 @@ li {
     float: left;
     width: 280px;
     height: 100%;
-    background-color: #003941;
+    background-color: #0098B0;
 }
 
 .navigation .applicationName {
@@ -66,7 +66,7 @@ li {
 .navigation li.item {
     margin-bottom: 8px;
     padding-bottom: 8px;
-    border-bottom: 1px solid #003941;
+    border-bottom: 1px solid #0098B0;
 }
 
 .navigation li.item a {
@@ -95,7 +95,7 @@ li {
 .navigation li.item .title .static {
     display: block;
     border-radius: 3px;
-    background-color: #0098B0;
+    background-color: #003941;
     color: #080800;
     font-size: .7em;
     font-weight: bold;
@@ -106,7 +106,7 @@ li {
 .navigation li.item .subtitle {
     margin-top: 10px;
     font: 700 .65em Helvetica;
-    color: #0098B0;
+    color: #003941;
     display: block
 }
 
@@ -190,7 +190,7 @@ li {
 .main span.static {
     display: inline-block;
     border-radius: 3px;
-    background-color: #0098B0 !important;
+    background-color: #003941 !important;
     color: #fff;
     font-size: .7em;
     padding: 2px 4px;
@@ -220,7 +220,7 @@ li {
 .main .subsection-title {
     font-size: 14px;
     margin-top: 30px;
-    color: #0098B0
+    color: #003941
 }
 
 .main .description {
